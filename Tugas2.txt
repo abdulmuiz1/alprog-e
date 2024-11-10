@@ -1,0 +1,24 @@
+Algoritma Deskriptif:
+Studi Kasus: Sistem Pendukung Keputusan untuk Memilih Laptop
+Algoritma ini bertujuan membantu pengguna memilih laptop yang sesuai dengan
+kebutuhan mereka berdasarkan kriteria seperti harga, spesifikasi, dan merek.
+1. Inisialisasi Data
+ - Kumpulkan data laptop dari berbagai sumber (e.g., harga, RAM, prosesor,
+penyimpanan, layar, baterai).
+ - Simpan data ke dalam struktur tabel atau array.
+2. Input Kriteria Pengguna
+ - Pengguna memberikan input kriteria berupa:
+ - Batas anggaran (misalnya < Rp 10 juta).
+ - Minimum RAM (misalnya 8 GB).
+ - Prosesor (misalnya Intel i5 atau setara).
+ - Layar (misalnya 14 inci atau lebih besar).
+3. Filter Data Berdasarkan Kriteria
+ - Algoritma menyeleksi laptop yang sesuai dengan kriteria pengguna.
+ - Jika ada laptop yang memenuhi semua kriteria, lanjut ke langkah berikutnya. Jika
+tidak ada, berikan saran kepada pengguna untuk melonggarkan kriteria.
+4. Urutkan Laptop
+ - Algoritma mengurutkan laptop berdasrkan kinerja tertinggi atau harga terendah
+sesuai dengan preferensi pengguna.
+5. Tampilkan Hasil
+ - Algoritma menampilkan daftar laptop yang sesuai dalam bentuk tabel atau grafik
+interaktif.
