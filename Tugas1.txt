@@ -1,0 +1,12 @@
+Natural Language
+Natural language, atau bahasa alami, adalah bahasa yang digunakan oleh manusia untuk berkomunikasi, seperti Bahasa Indonesia, Bahasa Inggris, atau bahasa lainnya. Bahasa ini memiliki struktur yang
+kompleks, termasuk tata bahasa, kosakata, dan nuansa makna yang sulit diuraikan. Karakteristik utamanatural language meliputi:  Ambiguitas: Banyak kata atau frasa yang bisa memiliki beberapa makna tergantung pada
+konteksnya.  Struktur yang kompleks: Bahasa alami melibatkan banyak aturan tata bahasa yang tidak selalukonsisten.  Dipengaruhi budaya: Bahasa alami juga sangat dipengaruhi oleh faktor budaya dan sosial. Komputer, melalui bidang pemrosesan bahasa alami (natural language processing atau NLP), mempelajari dan memproses bahasa ini agar dapat memahami dan merespons input manusia denganlebihbaik. Machine Language
+Machine language, atau bahasa mesin, adalah bahasa dasar yang dimengerti langsung oleh komputer. Bahasa ini terdiri dari kode biner (0 dan 1) yang digunakan oleh prosesor untuk mengeksekusi instruksi. Ciri utama machine language adalah:  Tidak ambigu: Semua instruksi dalam bahasa mesin memiliki arti yang jelas dan tidak ada
+ambiguitas.  Kecepatan eksekusi tinggi: Karena bahasa mesin dipahami langsung oleh perangkat keras, instruksi dieksekusi dengan cepat tanpa perlu translasi tambahan.  Sulit dipahami manusia: Karena hanya terdiri dari kode biner atau heksadesimal, bahasa ini sulit
+dimengerti manusia. Bahasa mesin biasanya dihasilkan dari bahasa tingkat tinggi melalui proses kompilasi atau interpretasi
+agar dapat dijalankan oleh komputer. Perbedaan Utama
+ Natural language digunakan oleh manusia untuk komunikasi sehari-hari, sementara machine
+language digunakan oleh komputer untuk memproses instruksi.  Natural language kompleks dan ambigu, sedangkan machine language sederhana namun sulit
+dipahami manusia.  Untuk menjembatani keduanya, NLP digunakan agar komputer bisa memahami bahasa alami, sedangkan compiler dan interpreter mengubah instruksi dalam bahasa pemrograman tingkat
+tinggi menjadi bahasa mesin.
